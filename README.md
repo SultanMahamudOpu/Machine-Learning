@@ -11,20 +11,20 @@ You can't build a great house on a weak foundation. These topics are the essenti
 
 ### 1.1: Mathematics for Machine Learning
 
-- [ ] **Linear Algebra**
+- [x] **Linear Algebra**
   - [ ] **Vectors & Matrices:** Understand vector/matrix notation, addition, scalar multiplication, and transposition.
   - [ ] **Matrix Operations:** Learn matrix multiplication, the dot product, and the Hadamard product.
   - [ ] **Special Matrices:** Study identity, inverse, diagonal, and symmetric matrices.
   - [ ] **Core Concepts:** Grasp linear independence, vector spaces, and spans.
   - [ ] **Eigenvectors & Eigenvalues:** Understand their definition and why they are crucial for algorithms like PCA. $A\vec{v} = \lambda\vec{v}$
 
-- [ ] **Calculus**
+- [x] **Calculus**
   - [ ] **Differential Calculus:** Master the concept of derivatives, slopes, and rates of change.
   - [ ] **The Chain Rule:** Essential for understanding backpropagation in neural networks.
   - [ ] **Partial Derivatives:** Understand how to find the derivative of a function with multiple variables.
   - [ ] **Gradient Descent:** Learn how gradients (vectors of partial derivatives) are used to find the minima of a function, which is the core of model training. $\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j} J(\theta)$
 
-- [ ] **Probability & Statistics**
+- [x] **Probability & Statistics**
   - [ ] **Descriptive Statistics:** Learn about mean, median, mode, variance, and standard deviation.
   - [ ] **Probability Theory:** Understand random variables, probability axioms, conditional probability, and Bayes' theorem. $P(A|B) = \frac{P(B|A)P(A)}{P(B)}$
   - [ ] **Probability Distributions:** Study common distributions like the Normal (Gaussian), Bernoulli, and Uniform distributions.
@@ -32,12 +32,12 @@ You can't build a great house on a weak foundation. These topics are the essenti
 
 ### 1.2: Core Programming Skills
 
-- [ ] **Python Programming Fundamentals**
-  - [ ] **Basic Syntax:** Variables, data types (integers, floats, strings, booleans), and operators.
-  - [ ] **Data Structures:** Master lists, tuples, dictionaries, and sets.
-  - [ ] **Control Flow:** Understand `if-else` statements, `for` loops, and `while` loops.
-  - [ ] **Functions:** Learn to define and call functions, understanding arguments and return values.
-  - [ ] **Object-Oriented Programming (OOP):** Get a basic understanding of classes and objects.
+- [x] **Python Programming Fundamentals**
+  - [x] **Basic Syntax:** Variables, data types (integers, floats, strings, booleans), and operators.
+  - [x] **Data Structures:** Master lists, tuples, dictionaries, and sets.
+  - [x] **Control Flow:** Understand `if-else` statements, `for` loops, and `while` loops.
+  - [x] **Functions:** Learn to define and call functions, understanding arguments and return values.
+  - [x] **Object-Oriented Programming (OOP):** Get a basic understanding of classes and objects.
 
 ---
 
